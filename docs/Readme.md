@@ -2,3 +2,4 @@
 
 - [Folder structure](./folder_structure.md)
 - [Redux architecture](./Redux-architecture-Counter.md)
+- [Information of modules](./about.md)
